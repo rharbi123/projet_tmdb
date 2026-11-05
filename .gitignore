@@ -1,0 +1,8 @@
+venv/
+env/
+.env
+*.db
+*.gz
+*.json
+__pycache__/
+*.pyc
